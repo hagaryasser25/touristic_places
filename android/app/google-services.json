@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330597010258",
+    "project_id": "touristic-places-8ca65",
+    "storage_bucket": "touristic-places-8ca65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330597010258:android:5216f7477df7fb2ba9088b",
+        "android_client_info": {
+          "package_name": "com.example.touristic_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330597010258-f6m2sk8evdk6hi9l2cpufrssb3sr38a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7vbToSVZOHf40APXWxNp22WlrtRkeWLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330597010258-f6m2sk8evdk6hi9l2cpufrssb3sr38a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
